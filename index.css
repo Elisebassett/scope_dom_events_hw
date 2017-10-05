@@ -1,7 +1,10 @@
-#first {
-
-}
-
-#second {
-	
+#element {
+	height: 600px;
+	width: 600px;
+	border: solid 20px black;
+	background-color: pink;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 600px;
+	font-size: 50px;
 }
